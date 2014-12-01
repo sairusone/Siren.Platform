@@ -11,6 +11,7 @@
 						<option>212 УНР</option>
 						<option>26 ЦНИИ</option>
 						<option>Славянка</option>
+						<option>ЗАО "Центр-Инвест"</option>
 					</select><br><br>
 				</td>
 			</tr>
